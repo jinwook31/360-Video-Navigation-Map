@@ -14,19 +14,17 @@ Download and Unzip the project file. Open with the appropriate Unity version.
 
 
 #### Environment
-
-Unity version @@@
+Unity Editor (Version: 2019.4.2f1)
 
 ---
 
 ### Interface structure
-@@@@
-
 ![interfaceFunc](https://github.com/jinwook31/360-Video-Navigation-Map/blob/main/Figures/Functions.PNG)
+
+@@@@@
 
 
 ### Project structure
-
 @@@@
 
 
@@ -34,4 +32,3 @@ Unity version @@@
 
 ### Citation
 
-@@@
