@@ -49,4 +49,4 @@ Based on the design considerations, we implemented these interfaces with Unity E
 ---
 
 ### Citation
-Lee, C.*, Kim, J.*, Yi, H., & Lee, W., Viewer2Explorer: Designing a Map Interface for Spatial Navigation in Linear 360 Exhibition Video. (Conditionally Accepted to CHI24).
+Lee, C., Kim, J., Yi, H., & Lee, W., Viewer2Explorer: Designing a Map Interface for Spatial Navigation in Linear 360 Exhibition Video. (Conditionally Accepted to CHI24).
